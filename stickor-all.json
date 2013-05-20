@@ -7,6 +7,92 @@
             "logo_url": "http://raw.github.com/behumble/stickor-json/master/images/mypeople.png", 
             "packs": [
                 {
+                    "pack_id": "welljak_soojung", 
+                    "pack_description": "임수정과 함께하는 맛있는 웰빙 체험 ~", 
+                    "stickors": [
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1080.png", 
+                            "description": "OK10"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1081.png", 
+                            "description": "사랑해9"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1082.png", 
+                            "description": "안녕4"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1083.png", 
+                            "description": "최고10"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1084.png", 
+                            "description": "ㅋㅋㅋ4"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1085.png", 
+                            "description": "힘내4"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1086.png", 
+                            "description": "파이팅3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1087.png", 
+                            "description": "굿모닝6"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1088.png", 
+                            "description": "굿나잇8"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1089.png", 
+                            "description": "생축"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1090.png", 
+                            "description": "심심해"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1091.png", 
+                            "description": "보고싶어"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1092.png", 
+                            "description": "치즈"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1093.png", 
+                            "description": "배고파6"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1094.png", 
+                            "description": "대박4"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1095.png", 
+                            "description": "고마워5"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1096.png", 
+                            "description": "좋아2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1097.png", 
+                            "description": "하트14"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1098.png", 
+                            "description": "헤헤2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1099.png", 
+                            "description": "스마일3"
+                        }
+                    ]
+                }, 
+                {
                     "pack_id": "mrs_freedom", 
                     "pack_description": "깨알 같이 방정 맞은 우리 동네 아줌마! 솔직해서 귀엽고, 부족해서 정감가는 자유부인을 만나보세요~", 
                     "stickors": [
