@@ -7,6 +7,148 @@
             "logo_url": "http://raw.github.com/behumble/stickor-json/master/images/mypeople.png", 
             "packs": [
                 {
+                    "pack_id": "miseng_3", 
+                    "pack_description": "오늘도 지치고 힘든 하루를 보낸 동료에게 미생 명언 스티커를 보내보세요. &#40;사용기간 : 2013년 12월 16일까지&#41;", 
+                    "stickors": [
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1190.png", 
+                            "description": "세상으로"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1191.png", 
+                            "description": "저불빛들"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1192.png", 
+                            "description": "함께하는일"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1193.png", 
+                            "description": "버려야한다"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1194.png", 
+                            "description": "숙일땐"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1195.png", 
+                            "description": "부족한사람"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1196.png", 
+                            "description": "독설"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1197.png", 
+                            "description": "취하지않으면"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1198.png", 
+                            "description": "지옥이다"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1199.png", 
+                            "description": "기회가와도"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1200.png", 
+                            "description": "진짜문제"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1201.png", 
+                            "description": "세상은원래"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1202.png", 
+                            "description": "세상이란게"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1203.png", 
+                            "description": "명분"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1204.png", 
+                            "description": "일좀그만"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1205.png", 
+                            "description": "일은되게"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1206.png", 
+                            "description": "당신은언제"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1207.png", 
+                            "description": "정치하려면"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1208.png", 
+                            "description": "잘할겁니다"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1209.png", 
+                            "description": "기다려라"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1210.png", 
+                            "description": "선택"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1211.png", 
+                            "description": "저런눈"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1212.png", 
+                            "description": "배웠으면"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1213.png", 
+                            "description": "일을해"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1214.png", 
+                            "description": "치워버려"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1215.png", 
+                            "description": "오해받으면"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1216.png", 
+                            "description": "정신잘"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1217.png", 
+                            "description": "재미있네요"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1218.png", 
+                            "description": "무서워서"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1219.png", 
+                            "description": "팀인데"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1220.png", 
+                            "description": "좋은생각"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1221.png", 
+                            "description": "어쩌겠어요"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1222.png", 
+                            "description": "되겠네"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1223.png", 
+                            "description": "안뺏겨"
+                        }
+                    ]
+                }, 
+                {
                     "pack_id": "miseng_2", 
                     "pack_description": "이 상황에는 이게 딱! 직장생활에 필요한 리액션을 미생이 알려줍니다. &#40;사용기간 : 2013년 12월 16일까지&#41;", 
                     "stickors": [
