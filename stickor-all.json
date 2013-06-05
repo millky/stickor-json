@@ -7,6 +7,132 @@
             "logo_url": "http://raw.github.com/behumble/stickor-json/master/images/mypeople.png", 
             "packs": [
                 {
+                    "pack_id": "charming_raccoon", 
+                    "pack_description": "장난기 많고 능글맞은 너구리, 구리짱! 친구들에게 웃음을 주는 분위기 메이커랍니다~", 
+                    "stickors": [
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1224.png", 
+                            "description": "하이6"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1225.png", 
+                            "description": "ㅋㅋㅋ3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1226.png", 
+                            "description": "사랑해7"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1227.png", 
+                            "description": "감사5"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1228.png", 
+                            "description": "chu3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1229.png", 
+                            "description": "심심"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1230.png", 
+                            "description": "??2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1231.png", 
+                            "description": "go"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1232.png", 
+                            "description": "빵빵"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1233.png", 
+                            "description": "haha3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1234.png", 
+                            "description": "낚시"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1235.png", 
+                            "description": "어질"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1236.png", 
+                            "description": "긴장"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1237.png", 
+                            "description": "당황"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1238.png", 
+                            "description": "무관심"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1239.png", 
+                            "description": "방망이"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1240.png", 
+                            "description": "못참아2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1241.png", 
+                            "description": "하트12"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1242.png", 
+                            "description": "OK9"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1243.png", 
+                            "description": "브이2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1244.png", 
+                            "description": "배째"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1245.png", 
+                            "description": "따봉4"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1246.png", 
+                            "description": "화나"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1247.png", 
+                            "description": "분노6"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1248.png", 
+                            "description": "no8"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1249.png", 
+                            "description": "허걱"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1250.png", 
+                            "description": "의심"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1251.png", 
+                            "description": "배고파5"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1252.png", 
+                            "description": "서러워2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1253.png", 
+                            "description": "펑펑"
+                        }
+                    ]
+                }, 
+                {
                     "pack_id": "miseng_3", 
                     "pack_description": "오늘도 지치고 힘든 하루를 보낸 동료에게 미생 명언 스티커를 보내보세요. &#40;사용기간 : 2013년 12월 16일까지&#41;", 
                     "stickors": [
