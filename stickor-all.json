@@ -7,6 +7,132 @@
             "logo_url": "http://raw.github.com/behumble/stickor-json/master/images/mypeople.png", 
             "packs": [
                 {
+                    "pack_id": "new_word", 
+                    "pack_description": "신조어의 기본, 모르는 말이 있다면 지금 바로 친구에게 물어보세요.", 
+                    "stickors": [
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1318.png", 
+                            "description": "갠춘"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1319.png", 
+                            "description": "아침2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1320.png", 
+                            "description": "뭐임"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1321.png", 
+                            "description": "쉴드"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1322.png", 
+                            "description": "근자감"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1323.png", 
+                            "description": "낚임"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1324.png", 
+                            "description": "웃프다"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1325.png", 
+                            "description": "아련"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1326.png", 
+                            "description": "귀요미"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1327.png", 
+                            "description": "초식남"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1328.png", 
+                            "description": "돋네"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1329.png", 
+                            "description": "님좀짱"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1330.png", 
+                            "description": "반사2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1331.png", 
+                            "description": "OMG2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1332.png", 
+                            "description": "기다려2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1333.png", 
+                            "description": "행쇼2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1334.png", 
+                            "description": "흐어어엉"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1335.png", 
+                            "description": "화떡녀"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1336.png", 
+                            "description": "웃겨줄께"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1337.png", 
+                            "description": "스릉흔드"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1338.png", 
+                            "description": "걍go"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1339.png", 
+                            "description": "굳밤"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1340.png", 
+                            "description": "굳모닁"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1341.png", 
+                            "description": "오늘만"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1342.png", 
+                            "description": "레알"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1343.png", 
+                            "description": "나만봐"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1344.png", 
+                            "description": "센치해"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1345.png", 
+                            "description": "ㅎㄷㄷ2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1346.png", 
+                            "description": "음슴"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1347.png", 
+                            "description": "해낼걸세"
+                        }
+                    ]
+                }, 
+                {
                     "pack_id": "proud_tomcat", 
                     "pack_description": "의리 빼면 시체, 리더쉽있고 도전의식 충만한 의기양양 쾌남씨를 만나보세요~", 
                     "stickors": [
