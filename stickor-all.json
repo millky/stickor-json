@@ -7,6 +7,132 @@
             "logo_url": "http://raw.github.com/behumble/stickor-json/master/images/mypeople.png", 
             "packs": [
                 {
+                    "pack_id": "proud_you", 
+                    "pack_description": "세상의 중심에서 당당하게 외친다~ 오늘도 으쌰으쌰 당당한 너!", 
+                    "stickors": [
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1388.png", 
+                            "description": "하이8"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1389.png", 
+                            "description": "haha7"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1390.png", 
+                            "description": "하트20"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1391.png", 
+                            "description": "chu4"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1392.png", 
+                            "description": "하트21"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1393.png", 
+                            "description": "훗6"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1394.png", 
+                            "description": "하트22"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1395.png", 
+                            "description": "ㅋㅋㅋ7"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1396.png", 
+                            "description": "뻘쭘"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1397.png", 
+                            "description": "굿바이2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1398.png", 
+                            "description": "이게3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1399.png", 
+                            "description": "짜증나2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1400.png", 
+                            "description": "밥3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1401.png", 
+                            "description": "최고13"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1402.png", 
+                            "description": "헉7"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1403.png", 
+                            "description": "오케이9"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1404.png", 
+                            "description": "훗7"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1405.png", 
+                            "description": "신나6"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1406.png", 
+                            "description": "최고14"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1407.png", 
+                            "description": "꽃3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1408.png", 
+                            "description": "하이9"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1409.png", 
+                            "description": "no10"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1410.png", 
+                            "description": "나?"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1411.png", 
+                            "description": "부끄6"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1412.png", 
+                            "description": "바로너"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1413.png", 
+                            "description": "으음5"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1414.png", 
+                            "description": "피곤해5"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1415.png", 
+                            "description": "오예4"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1416.png", 
+                            "description": "열받아10"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1417.png", 
+                            "description": "고고3"
+                        }
+                    ]
+                }, 
+                {
                     "pack_id": "chubby_rabbit", 
                     "pack_description": "굴러다니는 애교 덩어리! 토실양처럼 다양한 취미활동을 즐기세요~", 
                     "stickors": [
