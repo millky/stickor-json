@@ -7,6 +7,92 @@
             "logo_url": "http://raw.github.com/behumble/stickor-json/master/images/mypeople.png", 
             "packs": [
                 {
+                    "pack_id": "seoulmilk_4min", 
+                    "pack_description": "상큼한 포미닛과 함께, 리얼 에너지를 충전하세요! &#40;사용기간 : 2013년 12월 31일까지&#41;", 
+                    "stickors": [
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1438.png", 
+                            "description": "갈까"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1439.png", 
+                            "description": "곰곰"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1440.png", 
+                            "description": "궁금해"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1441.png", 
+                            "description": "너"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1442.png", 
+                            "description": "룰루랄라"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1443.png", 
+                            "description": "배고파7"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1444.png", 
+                            "description": "부끄부끄"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1445.png", 
+                            "description": "사랑해9"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1446.png", 
+                            "description": "쉿비밀이야"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1447.png", 
+                            "description": "안녕5"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1448.png", 
+                            "description": "어떡하지"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1449.png", 
+                            "description": "연락해"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1450.png", 
+                            "description": "울먹울먹"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1451.png", 
+                            "description": "정말"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1452.png", 
+                            "description": "짜잔2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1453.png", 
+                            "description": "최고9"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1454.png", 
+                            "description": "ㅋㅋㅋ9"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1455.png", 
+                            "description": "헤헤5"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1456.png", 
+                            "description": "힘내5"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1457.png", 
+                            "description": "눈물6"
+                        }
+                    ]
+                }, 
+                {
                     "pack_id": "cartoon_pung", 
                     "pack_description": "풍뎅이와 친구들의 깨알같은 스토리!\n인기웹툰 풍뎅이뎅이의 매력에 '풍덩'빠져보세요", 
                     "stickors": [
