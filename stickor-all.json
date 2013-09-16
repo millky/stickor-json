@@ -7,6 +7,60 @@
             "logo_url": "http://raw.github.com/behumble/stickor-json/master/images/mypeople.png", 
             "packs": [
                 {
+                    "pack_id": "gondre_chuseok", 
+                    "pack_description": "풍성한 한가위 맞아, 마음도 몸도 더~ 풍성해진, 제시와 곤드레 &#40;사용기간 : 2013년 9월 30일까지&#41;", 
+                    "stickors": [
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1488.png", 
+                            "description": "시집안가"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1489.png", 
+                            "description": "요리"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1490.png", 
+                            "description": "귀성길"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1491.png", 
+                            "description": "운전중"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1492.png", 
+                            "description": "배불러"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1493.png", 
+                            "description": "송편"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1494.png", 
+                            "description": "달맞이"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1495.png", 
+                            "description": "어머님"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1496.png", 
+                            "description": "뚱뚱"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1497.png", 
+                            "description": "한가위"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1498.png", 
+                            "description": "강강술래"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1499.png", 
+                            "description": "후유증"
+                        }
+                    ]
+                }, 
+                {
                     "pack_id": "oohlala", 
                     "pack_description": "넌 정말 매력있어~♪\r\n독특하고 귀여운 울랄라의 매력에 빠져보세요", 
                     "stickors": [
