@@ -7,6 +7,72 @@
             "logo_url": "http://raw.github.com/behumble/stickor-json/master/images/mypeople.png", 
             "packs": [
                 {
+                    "pack_id": "police", 
+                    "pack_description": "도움이 필요할 땐 경찰을!\n스티커가 필요할 땐 포돌이를 찾아주세요!", 
+                    "stickors": [
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1808.png", 
+                            "description": "출동"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1809.png", 
+                            "description": "체포"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1810.png", 
+                            "description": "노우"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1811.png", 
+                            "description": "보호"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1812.png", 
+                            "description": "수사"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1813.png", 
+                            "description": "ㅎㅎㅎ2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1814.png", 
+                            "description": "좋은하루2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1815.png", 
+                            "description": "okok"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1816.png", 
+                            "description": "잘자요"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1817.png", 
+                            "description": "응"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1818.png", 
+                            "description": "좋아3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1819.png", 
+                            "description": "토닥토닥3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1820.png", 
+                            "description": "홧팅요"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1821.png", 
+                            "description": "사랑해요3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1822.png", 
+                            "description": "ㅋㅋㅋㅋ4"
+                        }
+                    ]
+                }, 
+                {
                     "pack_id": "gondre_chuseok", 
                     "pack_description": "풍성한 한가위 맞아, 마음도 몸도 더~ 풍성해진, 제시와 곤드레 &#40;사용기간 : 2013년 9월 30일까지&#41;", 
                     "stickors": [
@@ -4611,10 +4677,6 @@
                         {
                             "url": "https://air21.daum.net/images/sticker/high/sticker_318.png", 
                             "description": "바이"
-                        }, 
-                        {
-                            "url": "https://air21.daum.net/images/sticker/high/sticker_319.png", 
-                            "description": "부처"
                         }, 
                         {
                             "url": "https://air21.daum.net/images/sticker/high/sticker_320.png", 
