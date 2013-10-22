@@ -7,6 +7,60 @@
             "logo_url": "http://raw.github.com/behumble/stickor-json/master/images/mypeople.png", 
             "packs": [
                 {
+                    "pack_id": "goodoil2", 
+                    "pack_description": "언제나 건강한 웃음이 가득한 구도일!\n귀염둥이 구도일2가 찾아왔습니다.", 
+                    "stickors": [
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1823.png", 
+                            "description": "헬로"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1824.png", 
+                            "description": "애정애교"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1825.png", 
+                            "description": "기쁨"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1826.png", 
+                            "description": "웃음2"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1827.png", 
+                            "description": "당황3"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1828.png", 
+                            "description": "허탈"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1829.png", 
+                            "description": "조심운전"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1830.png", 
+                            "description": "함께떠나요"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1831.png", 
+                            "description": "위로"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1832.png", 
+                            "description": "한잔의커피"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1833.png", 
+                            "description": "쉬어요"
+                        }, 
+                        {
+                            "url": "https://air21.daum.net/images/sticker/high/sticker_1834.png", 
+                            "description": "구도일앱"
+                        }
+                    ]
+                }, 
+                {
                     "pack_id": "police", 
                     "pack_description": "도움이 필요할 땐 경찰을!\n스티커가 필요할 땐 포돌이를 찾아주세요!", 
                     "stickors": [
